@@ -1,9 +1,4 @@
-# Control Systems — Universidad Nacional de Colombia
-**Faculty of Engineering | Department of Electrical and Electronic Engineering**
-**Course: Control 2024-II | Professor: John Alexander Cortés Romero, PhD.**
-**Student: Sebastian Jaramillo Verdugo**
-
----
+# Control Systems 
 
 ## About this repository
 
@@ -26,19 +21,6 @@ The course covers the fundamental methods for analysis and design of closed-loop
 
 ---
 
-## Repository structure
-
-```
-control-2024-ii/
-├── Reto1/   # Stability analysis, signals & steady-state errors
-├── Reto2/   # Transient response & steady-state errors
-├── Reto3/   # Algebraic control design
-├── Reto4/   # (...)
-├── Reto5/   # Root Locus design
-├── Reto6/   # Frequency-domain design (compensators)
-├── Reto7/   # State-space design
-└── README.md
-```
 
 Each folder contains:
 - `report.pdf` — written solution and analysis
@@ -47,13 +29,3 @@ Each folder contains:
 
 ---
 
-## Tools
-
-- MATLAB & Simulink
-- Control System Toolbox (`rlocus`, `bode`, `margin`, `rltool`, `place`, `lqr`)
-
----
-
-## License
-
-Academic use only. Universidad Nacional de Colombia, 2024-II.
